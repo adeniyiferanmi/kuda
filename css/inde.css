@@ -124,9 +124,7 @@ li .fa{
     margin-top: 10px;
 
 }
-.money{
-    /* width: 100%; */
-}
+
 .menu{
     display: none;
 }
@@ -560,10 +558,7 @@ li .fa{
     width: 100px;
     background-color: rgb(64,25,109);
 }
-.lobe .apple2{
-    /* margin-left: -100px; */
-    /* margin: auto; */
-}
+
 .section12{
     width: 100%;
     margin: auto; 
@@ -735,9 +730,7 @@ li .fa{
     .but .apple2.on{
         margin-left: 0;
     }
-    .load{
-        /* display: none; */
-    }
+  
     .apple2 p{
         color: white;
         font-size: 0.6rem;
@@ -793,9 +786,7 @@ li .fa{
     }
 }
     @media (max-width:430px){
-        .but .apple2{
-            /* margin-left: -110px; */
-        }
+      
         .section1{
             overflow: hidden;
         }
@@ -860,9 +851,7 @@ li .fa{
             width: 100%;
             margin: auto;
         }
-        .section8{
-            
-        }
+      
         .content7 img{
             width: 70px;
         }
@@ -887,8 +876,6 @@ li .fa{
             width: 100%;
             margin: auto;
         }
-        .content10{
-            /* width: 100%; */
-        }
+       
     
     }
