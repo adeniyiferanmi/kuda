@@ -750,6 +750,14 @@ li .fa{
         width: 100%;
         margin: auto;
     }
+    .section9{
+        width: 100%;
+        margin: auto;
+    }
+    .content10{
+        width: 100%;
+        margin: auto;
+    }
 }
 @media(max-width:330px) {
     .section10{
